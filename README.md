@@ -1,2 +1,2 @@
 # angular-mongo-django
-Passion project
+Passion project underway. Will deploy to Heroku soon.
